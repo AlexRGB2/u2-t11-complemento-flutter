@@ -79,7 +79,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes p
 
    - Captura:
 
-   ![resultList](image.png) ![resultMap](image-1.png)
+   ![resultList](images/image-14.png) ![resultMap](images/image-15.png)
 
 ## Ejercicios del 05 al 08
 
